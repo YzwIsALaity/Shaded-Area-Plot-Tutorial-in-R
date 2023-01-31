@@ -18,7 +18,7 @@ The dataset we used for the tutorial is a public dataset from [Seattle Flu Study
 
 - `Index`: this is a variable used to __indicate the order of calendar time__ (numerical).
 
-![](/Users/yonwang/Desktop/New Plot/New Code/Figures/Dataset.png)
+![](https://github.com/YzwIsALaity/Shaded-Area-Plot-Tutorial-in-R/blob/4a3120d1ac3cbfd5a5d7068b3f941a0867650eb0/Dataset.png)
 
 ## 2. Shaded area plot
 The basic functions in `ggplot2` for shaded area plots are `geom_ribbon()` and `geom_area()` and we are going to introduce two functions:
@@ -52,7 +52,7 @@ ggplot(Dt, aes(x = Index)) +                      # set up x-axis as numerical I
         axis.title.y = element_text(colour = "black", size = 11, face = 'bold'),
         legend.title = element_text(colour = "black", size = 11, face = 'bold'))  
 ```
-![](/Users/yonwang/Desktop/New Plot/New Code/Figures/Version 1.jpeg)
+![](https://github.com/YzwIsALaity/Shaded-Area-Plot-Tutorial-in-R/blob/4a3120d1ac3cbfd5a5d7068b3f941a0867650eb0/Version%201.jpeg)
 
 In the above example, the frequency of detected virus is stacked vertically at each time point and the "shaded area" for each type of virus will be marked by a specific color (color palette is similar to __Tableau__). The next example is to integrate "shaded area" with a bar plot and we set "shaded area" for prevalence of detected viruses and bar for frequency of detected viruses. To simplify the figure, we will focus on the __prevalence and frequency of Adenovirus and Enterovirus__ to demonstrate the use of `geom_ribbon()`. Since the units of frequency and prevalence are different, we will implement the __second y axis__ in the plot to distinguish values for frequency and prevalence.
 ```
@@ -61,7 +61,7 @@ Dt.Sub <- Dt[which(Dt$Virus %in% c('Adenovirus', 'Enterovirus')), ]
 # Check distribution of Count and Prevalence
 summary(Dt.Sub[, c('Count', 'Prevalence')])
 ```
-![](/Users/yonwang/Desktop/New Plot/New Code/Figures/Distribution.png)
+![](https://github.com/YzwIsALaity/Shaded-Area-Plot-Tutorial-in-R/blob/4a3120d1ac3cbfd5a5d7068b3f941a0867650eb0/Distribution.png)
 
 In `ggplot2`, the __second y axis__ need to be tranformed from the __main y axis__ and we therefore need to check ranges of `Count` and `Prevalence`. We will set up `Count` as the __main y axis__ and transform the scale of `Prevalence` to match the scale of `Count` and we need to pass this process into `geom_ribbon()` and `scale_y_continuous()`:
 
@@ -107,7 +107,7 @@ ggplot(Dt.Sub, aes(x = Index)) +
         legend.title = element_text(face = "bold", color = 'black'),
         plot.title = element_text(hjust = 0.5, face = "bold", color = 'black'))
 ```
-![](/Users/yonwang/Desktop/New Plot/New Code/Figures/Version 1.jpeg)
+![](https://github.com/YzwIsALaity/Shaded-Area-Plot-Tutorial-in-R/blob/4a3120d1ac3cbfd5a5d7068b3f941a0867650eb0/Version%202.jpeg)
 
 Here we go!
 
