@@ -1,0 +1,289 @@
+Epi.Week,Date,Count,Prevalence,Virus,Index
+2019-W01,19-Jan,634,0.0836,RSV,1
+2019-W06,19-Feb,306,0.0384,RSV,2
+2019-W10,19-Mar,307,0.027,RSV,3
+2019-W14,19-Apr,125,0.021,RSV,4
+2019-W18,19-May,34,0.0135,RSV,5
+2019-W23,19-Jun,3,0.0049,RSV,6
+2019-W27,19-Jul,4,0.0042,RSV,7
+2019-W32,19-Aug,0,0,RSV,8
+2019-W36,19-Sep,5,0.0119,RSV,9
+2019-W40,19-Oct,10,0.0058,RSV,10
+2019-W45,19-Nov,60,0.0207,RSV,11
+2019-W49,19-Dec,354,0.0565,RSV,12
+2020-W01,20-Jan,366,0.042,RSV,13
+2020-W06,20-Feb,246,0.0286,RSV,14
+2020-W10,20-Mar,101,0.0108,RSV,15
+2020-W14,20-Apr,12,6.00E-04,RSV,16
+2020-W19,20-May,0,0,RSV,17
+2020-W23,20-Jun,0,0,RSV,18
+2020-W27,20-Jul,1,1.00E-04,RSV,19
+2020-W32,20-Aug,11,8.00E-04,RSV,20
+2020-W36,20-Sep,0,0,RSV,21
+2020-W41,20-Oct,1,1.00E-04,RSV,22
+2020-W45,20-Nov,0,0,RSV,23
+2020-W49,20-Dec,1,1.00E-04,RSV,24
+2021-W01,21-Jan,0,0,RSV,25
+2021-W05,21-Feb,3,4.00E-04,RSV,26
+2021-W09,21-Mar,3,3.00E-04,RSV,27
+2021-W14,21-Apr,0,0,RSV,28
+2021-W18,21-May,3,6.00E-04,RSV,29
+2021-W22,21-Jun,15,0.0033,RSV,30
+2021-W27,21-Jul,32,0.0084,RSV,31
+2021-W31,21-Aug,49,0.0099,RSV,32
+2021-W35,21-Sep,82,0.0149,RSV,33
+2021-W40,21-Oct,15,0.0108,RSV,34
+2021-W44,21-Nov,101,0.0393,RSV,35
+2021-W48,21-Dec,89,0.0297,RSV,36
+2019-W01,19-Jan,730,0.0563,Flu,1
+2019-W06,19-Feb,852,0.0698,Flu,2
+2019-W10,19-Mar,1734,0.1007,Flu,3
+2019-W14,19-Apr,336,0.0344,Flu,4
+2019-W18,19-May,32,0.0087,Flu,5
+2019-W23,19-Jun,14,0.0155,Flu,6
+2019-W27,19-Jul,9,0.0063,Flu,7
+2019-W32,19-Aug,6,0.0063,Flu,8
+2019-W36,19-Sep,7,0.0118,Flu,9
+2019-W40,19-Oct,31,0.0166,Flu,10
+2019-W45,19-Nov,117,0.0284,Flu,11
+2019-W49,19-Dec,816,0.0862,Flu,12
+2020-W01,20-Jan,1217,0.0917,Flu,13
+2020-W06,20-Feb,933,0.0718,Flu,14
+2020-W10,20-Mar,396,0.0197,Flu,15
+2020-W14,20-Apr,13,4.00E-04,Flu,16
+2020-W19,20-May,2,7.00E-04,Flu,17
+2020-W23,20-Jun,0,0,Flu,18
+2020-W27,20-Jul,2,1.00E-04,Flu,19
+2020-W32,20-Aug,15,8.00E-04,Flu,20
+2020-W36,20-Sep,1,1.00E-04,Flu,21
+2020-W41,20-Oct,28,0.0015,Flu,22
+2020-W45,20-Nov,0,0,Flu,23
+2020-W49,20-Dec,6,4.00E-04,Flu,24
+2021-W01,21-Jan,0,0,Flu,25
+2021-W05,21-Feb,0,0,Flu,26
+2021-W09,21-Mar,2,1.00E-04,Flu,27
+2021-W14,21-Apr,11,0.0011,Flu,28
+2021-W18,21-May,0,0,Flu,29
+2021-W22,21-Jun,2,3.00E-04,Flu,30
+2021-W27,21-Jul,0,0,Flu,31
+2021-W31,21-Aug,0,0,Flu,32
+2021-W35,21-Sep,5,8.00E-04,Flu,33
+2021-W40,21-Oct,1,4.00E-04,Flu,34
+2021-W44,21-Nov,2,6.00E-04,Flu,35
+2021-W48,21-Dec,13,0.0029,Flu,36
+2019-W01,19-Jan,182,0.0491,Adenovirus,1
+2019-W06,19-Feb,167,0.0417,Adenovirus,2
+2019-W10,19-Mar,325,0.0565,Adenovirus,3
+2019-W14,19-Apr,221,0.0765,Adenovirus,4
+2019-W18,19-May,116,0.0678,Adenovirus,5
+2019-W23,19-Jun,33,0.109,Adenovirus,6
+2019-W27,19-Jul,22,0.0507,Adenovirus,7
+2019-W32,19-Aug,9,0.0212,Adenovirus,8
+2019-W36,19-Sep,6,0.0287,Adenovirus,9
+2019-W40,19-Oct,17,0.0245,Adenovirus,10
+2019-W45,19-Nov,51,0.0354,Adenovirus,11
+2019-W49,19-Dec,129,0.04,Adenovirus,12
+2020-W01,20-Jan,133,0.0305,Adenovirus,13
+2020-W06,20-Feb,172,0.0387,Adenovirus,14
+2020-W10,20-Mar,178,0.0361,Adenovirus,15
+2020-W14,20-Apr,106,0.0104,Adenovirus,16
+2020-W19,20-May,28,0.015,Adenovirus,17
+2020-W23,20-Jun,17,0.0088,Adenovirus,18
+2020-W27,20-Jul,114,0.0135,Adenovirus,19
+2020-W32,20-Aug,43,0.0066,Adenovirus,20
+2020-W36,20-Sep,56,0.0074,Adenovirus,21
+2020-W41,20-Oct,47,0.0073,Adenovirus,22
+2020-W45,20-Nov,31,0.0096,Adenovirus,23
+2020-W49,20-Dec,83,0.0172,Adenovirus,24
+2021-W01,21-Jan,42,0.0085,Adenovirus,25
+2021-W05,21-Feb,42,0.0105,Adenovirus,26
+2021-W09,21-Mar,77,0.0164,Adenovirus,27
+2021-W14,21-Apr,47,0.0144,Adenovirus,28
+2021-W18,21-May,64,0.0225,Adenovirus,29
+2021-W22,21-Jun,33,0.0156,Adenovirus,30
+2021-W27,21-Jul,27,0.0144,Adenovirus,31
+2021-W31,21-Aug,34,0.0139,Adenovirus,32
+2021-W35,21-Sep,43,0.0161,Adenovirus,33
+2021-W40,21-Oct,42,0.0531,Adenovirus,34
+2021-W44,21-Nov,53,0.0394,Adenovirus,35
+2021-W48,21-Dec,54,0.0346,Adenovirus,36
+2019-W01,19-Jan,91,0.024,Enterovirus,1
+2019-W06,19-Feb,36,0.0091,Enterovirus,2
+2019-W10,19-Mar,52,0.0093,Enterovirus,3
+2019-W14,19-Apr,31,0.0104,Enterovirus,4
+2019-W18,19-May,37,0.0207,Enterovirus,5
+2019-W23,19-Jun,11,0.037,Enterovirus,6
+2019-W27,19-Jul,6,0.0136,Enterovirus,7
+2019-W32,19-Aug,3,0.0077,Enterovirus,8
+2019-W36,19-Sep,15,0.0675,Enterovirus,9
+2019-W40,19-Oct,41,0.0536,Enterovirus,10
+2019-W45,19-Nov,50,0.0402,Enterovirus,11
+2019-W49,19-Dec,53,0.0173,Enterovirus,12
+2020-W01,20-Jan,55,0.0126,Enterovirus,13
+2020-W06,20-Feb,50,0.0117,Enterovirus,14
+2020-W10,20-Mar,26,0.0043,Enterovirus,15
+2020-W14,20-Apr,2,2.00E-04,Enterovirus,16
+2020-W19,20-May,1,3.00E-04,Enterovirus,17
+2020-W23,20-Jun,1,3.00E-04,Enterovirus,18
+2020-W27,20-Jul,4,5.00E-04,Enterovirus,19
+2020-W32,20-Aug,15,0.0023,Enterovirus,20
+2020-W36,20-Sep,27,0.0036,Enterovirus,21
+2020-W41,20-Oct,15,0.0023,Enterovirus,22
+2020-W45,20-Nov,15,0.0052,Enterovirus,23
+2020-W49,20-Dec,21,0.0043,Enterovirus,24
+2021-W01,21-Jan,25,0.0051,Enterovirus,25
+2021-W05,21-Feb,23,0.0059,Enterovirus,26
+2021-W09,21-Mar,37,0.0085,Enterovirus,27
+2021-W14,21-Apr,50,0.0152,Enterovirus,28
+2021-W18,21-May,50,0.0174,Enterovirus,29
+2021-W22,21-Jun,39,0.0176,Enterovirus,30
+2021-W27,21-Jul,83,0.0444,Enterovirus,31
+2021-W31,21-Aug,55,0.0225,Enterovirus,32
+2021-W35,21-Sep,65,0.029,Enterovirus,33
+2021-W40,21-Oct,22,0.0318,Enterovirus,34
+2021-W44,21-Nov,50,0.0357,Enterovirus,35
+2021-W48,21-Dec,58,0.0377,Enterovirus,36
+2019-W01,19-Jan,514,0.129,Human Coronavirus,1
+2019-W06,19-Feb,402,0.0997,Human Coronavirus,2
+2019-W10,19-Mar,408,0.0711,Human Coronavirus,3
+2019-W14,19-Apr,124,0.0318,Human Coronavirus,4
+2019-W18,19-May,49,0.0269,Human Coronavirus,5
+2019-W23,19-Jun,5,0.0172,Human Coronavirus,6
+2019-W27,19-Jul,4,0.0089,Human Coronavirus,7
+2019-W32,19-Aug,3,0.006,Human Coronavirus,8
+2019-W36,19-Sep,0,0,Human Coronavirus,9
+2019-W40,19-Oct,9,0.0099,Human Coronavirus,10
+2019-W45,19-Nov,36,0.0168,Human Coronavirus,11
+2019-W49,19-Dec,235,0.0369,Human Coronavirus,12
+2020-W01,20-Jan,408,0.0459,Human Coronavirus,13
+2020-W06,20-Feb,376,0.0433,Human Coronavirus,14
+2020-W10,20-Mar,301,0.0268,Human Coronavirus,15
+2020-W14,20-Apr,204,0.0082,Human Coronavirus,16
+2020-W19,20-May,48,0.0114,Human Coronavirus,17
+2020-W23,20-Jun,20,0.0043,Human Coronavirus,18
+2020-W27,20-Jul,166,0.0097,Human Coronavirus,19
+2020-W32,20-Aug,135,0.0104,Human Coronavirus,20
+2020-W36,20-Sep,205,0.0095,Human Coronavirus,21
+2020-W41,20-Oct,267,0.0088,Human Coronavirus,22
+2020-W45,20-Nov,394,0.0116,Human Coronavirus,23
+2020-W49,20-Dec,493,0.013,Human Coronavirus,24
+2021-W01,21-Jan,332,0.009,Human Coronavirus,25
+2021-W05,21-Feb,209,0.0058,Human Coronavirus,26
+2021-W09,21-Mar,321,0.0088,Human Coronavirus,27
+2021-W14,21-Apr,414,0.0211,Human Coronavirus,28
+2021-W18,21-May,303,0.0208,Human Coronavirus,29
+2021-W22,21-Jun,148,0.0231,Human Coronavirus,30
+2021-W27,21-Jul,159,0.0251,Human Coronavirus,31
+2021-W31,21-Aug,376,0.0242,Human Coronavirus,32
+2021-W35,21-Sep,697,0.0302,Human Coronavirus,33
+2021-W40,21-Oct,255,0.0093,Human Coronavirus,34
+2021-W44,21-Nov,250,0.0161,Human Coronavirus,35
+2021-W48,21-Dec,1137,0.042,Human Coronavirus,36
+2019-W01,19-Jan,92,0.0257,Human Parainfluenza,1
+2019-W06,19-Feb,54,0.0133,Human Parainfluenza,2
+2019-W10,19-Mar,174,0.0306,Human Parainfluenza,3
+2019-W14,19-Apr,172,0.0606,Human Parainfluenza,4
+2019-W18,19-May,171,0.1141,Human Parainfluenza,5
+2019-W23,19-Jun,31,0.1034,Human Parainfluenza,6
+2019-W27,19-Jul,19,0.0416,Human Parainfluenza,7
+2019-W32,19-Aug,2,0.0066,Human Parainfluenza,8
+2019-W36,19-Sep,10,0.0455,Human Parainfluenza,9
+2019-W40,19-Oct,48,0.0612,Human Parainfluenza,10
+2019-W45,19-Nov,80,0.0642,Human Parainfluenza,11
+2019-W49,19-Dec,125,0.0414,Human Parainfluenza,12
+2020-W01,20-Jan,69,0.0162,Human Parainfluenza,13
+2020-W06,20-Feb,33,0.0075,Human Parainfluenza,14
+2020-W10,20-Mar,38,0.0073,Human Parainfluenza,15
+2020-W14,20-Apr,10,9.00E-04,Human Parainfluenza,16
+2020-W19,20-May,2,0.0011,Human Parainfluenza,17
+2020-W23,20-Jun,1,4.00E-04,Human Parainfluenza,18
+2020-W27,20-Jul,1,1.00E-04,Human Parainfluenza,19
+2020-W32,20-Aug,8,0.0013,Human Parainfluenza,20
+2020-W36,20-Sep,1,1.00E-04,Human Parainfluenza,21
+2020-W41,20-Oct,0,0,Human Parainfluenza,22
+2020-W45,20-Nov,0,0,Human Parainfluenza,23
+2020-W49,20-Dec,3,8.00E-04,Human Parainfluenza,24
+2021-W01,21-Jan,2,5.00E-04,Human Parainfluenza,25
+2021-W05,21-Feb,1,3.00E-04,Human Parainfluenza,26
+2021-W09,21-Mar,6,0.0012,Human Parainfluenza,27
+2021-W14,21-Apr,16,0.0049,Human Parainfluenza,28
+2021-W18,21-May,24,0.0087,Human Parainfluenza,29
+2021-W22,21-Jun,58,0.0263,Human Parainfluenza,30
+2021-W27,21-Jul,115,0.0607,Human Parainfluenza,31
+2021-W31,21-Aug,161,0.0628,Human Parainfluenza,32
+2021-W35,21-Sep,74,0.0262,Human Parainfluenza,33
+2021-W40,21-Oct,8,0.0116,Human Parainfluenza,34
+2021-W44,21-Nov,29,0.023,Human Parainfluenza,35
+2021-W48,21-Dec,41,0.0282,Human Parainfluenza,36
+2019-W01,19-Jan,96,0.0233,Human Metapneumovirus,1
+2019-W06,19-Feb,146,0.0355,Human Metapneumovirus,2
+2019-W10,19-Mar,255,0.0451,Human Metapneumovirus,3
+2019-W14,19-Apr,170,0.0562,Human Metapneumovirus,4
+2019-W18,19-May,99,0.0696,Human Metapneumovirus,5
+2019-W23,19-Jun,19,0.0633,Human Metapneumovirus,6
+2019-W27,19-Jul,9,0.0208,Human Metapneumovirus,7
+2019-W32,19-Aug,3,0.0077,Human Metapneumovirus,8
+2019-W36,19-Sep,4,0.0152,Human Metapneumovirus,9
+2019-W40,19-Oct,2,0.0023,Human Metapneumovirus,10
+2019-W45,19-Nov,20,0.0134,Human Metapneumovirus,11
+2019-W49,19-Dec,76,0.0243,Human Metapneumovirus,12
+2020-W01,20-Jan,115,0.0257,Human Metapneumovirus,13
+2020-W06,20-Feb,201,0.0452,Human Metapneumovirus,14
+2020-W10,20-Mar,100,0.0174,Human Metapneumovirus,15
+2020-W14,20-Apr,10,9.00E-04,Human Metapneumovirus,16
+2020-W19,20-May,0,0,Human Metapneumovirus,17
+2020-W23,20-Jun,0,0,Human Metapneumovirus,18
+2020-W27,20-Jul,2,2.00E-04,Human Metapneumovirus,19
+2020-W32,20-Aug,9,0.0014,Human Metapneumovirus,20
+2020-W36,20-Sep,0,0,Human Metapneumovirus,21
+2020-W41,20-Oct,0,0,Human Metapneumovirus,22
+2020-W45,20-Nov,0,0,Human Metapneumovirus,23
+2020-W49,20-Dec,1,3.00E-04,Human Metapneumovirus,24
+2021-W01,21-Jan,0,0,Human Metapneumovirus,25
+2021-W05,21-Feb,0,0,Human Metapneumovirus,26
+2021-W09,21-Mar,4,0.001,Human Metapneumovirus,27
+2021-W14,21-Apr,1,3.00E-04,Human Metapneumovirus,28
+2021-W18,21-May,10,0.0036,Human Metapneumovirus,29
+2021-W22,21-Jun,6,0.0031,Human Metapneumovirus,30
+2021-W27,21-Jul,5,0.0025,Human Metapneumovirus,31
+2021-W31,21-Aug,4,0.0014,Human Metapneumovirus,32
+2021-W35,21-Sep,7,0.0026,Human Metapneumovirus,33
+2021-W40,21-Oct,2,0.0022,Human Metapneumovirus,34
+2021-W44,21-Nov,9,0.0088,Human Metapneumovirus,35
+2021-W48,21-Dec,14,0.0088,Human Metapneumovirus,36
+2019-W01,19-Jan,231,0.0579,Rhinovirus,1
+2019-W06,19-Feb,187,0.0475,Rhinovirus,2
+2019-W10,19-Mar,376,0.0659,Rhinovirus,3
+2019-W14,19-Apr,227,0.0774,Rhinovirus,4
+2019-W18,19-May,287,0.1957,Rhinovirus,5
+2019-W23,19-Jun,97,0.3204,Rhinovirus,6
+2019-W27,19-Jul,86,0.1811,Rhinovirus,7
+2019-W32,19-Aug,52,0.1446,Rhinovirus,8
+2019-W36,19-Sep,74,0.3385,Rhinovirus,9
+2019-W40,19-Oct,175,0.2528,Rhinovirus,10
+2019-W45,19-Nov,168,0.1412,Rhinovirus,11
+2019-W49,19-Dec,295,0.0935,Rhinovirus,12
+2020-W01,20-Jan,302,0.0676,Rhinovirus,13
+2020-W06,20-Feb,752,0.1716,Rhinovirus,14
+2020-W10,20-Mar,646,0.1148,Rhinovirus,15
+2020-W14,20-Apr,282,0.025,Rhinovirus,16
+2020-W19,20-May,15,0.0089,Rhinovirus,17
+2020-W23,20-Jun,10,0.0054,Rhinovirus,18
+2020-W27,20-Jul,178,0.021,Rhinovirus,19
+2020-W32,20-Aug,579,0.0904,Rhinovirus,20
+2020-W36,20-Sep,745,0.0979,Rhinovirus,21
+2020-W41,20-Oct,686,0.1068,Rhinovirus,22
+2020-W45,20-Nov,325,0.0981,Rhinovirus,23
+2020-W49,20-Dec,455,0.0976,Rhinovirus,24
+2021-W01,21-Jan,533,0.1058,Rhinovirus,25
+2021-W05,21-Feb,452,0.1147,Rhinovirus,26
+2021-W09,21-Mar,1004,0.2133,Rhinovirus,27
+2021-W14,21-Apr,470,0.1442,Rhinovirus,28
+2021-W18,21-May,430,0.1508,Rhinovirus,29
+2021-W22,21-Jun,455,0.2064,Rhinovirus,30
+2021-W27,21-Jul,498,0.2658,Rhinovirus,31
+2021-W31,21-Aug,388,0.1536,Rhinovirus,32
+2021-W35,21-Sep,495,0.1983,Rhinovirus,33
+2021-W40,21-Oct,140,0.2088,Rhinovirus,34
+2021-W44,21-Nov,323,0.2436,Rhinovirus,35
+2021-W48,21-Dec,283,0.1827,Rhinovirus,36
